@@ -22,9 +22,9 @@ tenho 23 anos, estou sempre em busca de adquirir novos conhecimentos, pois acred
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+##
 </div>
   
-  ##
   
  
  
