@@ -1,6 +1,6 @@
 ### Olá, eu sou a Raquel Silva!
 
-tenho 23 anos, estou sempre em busca de adquirir novos conhecimentos, pois acredito que através da educação e da inovação tecnológica podemos mudar a sociedade em que vivemos. Aqui estão disponíveis alguns projetos que elaborei individual ou coletivamente e as linguagens ou software que já estou habituada.
+tenho 23 anos, estou sempre em busca de adquirir novos conhecimentos, pois acredito que através da educação e da inovação tecnológica podemos mudar a sociedade em que vivemos. Aqui estão disponíveis alguns projetos que elaborei individual ou coletivamente e as linguagens ou softwares que já estou habituada.
 
  <div>
  <a href = "mailto:raquelshdy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
