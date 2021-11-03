@@ -30,7 +30,7 @@ tenho 23 anos, estou sempre em busca de adquirir novos conhecimentos, pois acred
  ##
   
  #### Projetos disponíveis:
- [HorrorFlix](https://raqueldcsilva.github.io/horrorFlix/)
+ [HorrorFlix](https://raqueldcsilva.github.io/horrorFlix/): simulação da interface da Netflix.
  
   
  
