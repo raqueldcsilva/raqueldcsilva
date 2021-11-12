@@ -33,7 +33,7 @@ tenho 23 anos, estou sempre em busca de adquirir novos conhecimentos, pois acred
  
  [HorrorFlix](https://raqueldcsilva.github.io/horrorFlix/): Projeto que busca reproduzir a interface da Netflix, mas com algumas modificações para representar o Halloween e a minha paixão em filmes de terror/suspense. O exercício foi feito através de HTML, CSS e Javascript.
  
- [Interface de Login do Instagram](https://github.com/raqueldcsilva/interface-instagram): Exercício que buscou reproduzir a interface de login do instagram, para sua elaboração utilizei HTML e CSS.
+ [Interface de Login do Instagram](https://raqueldcsilva.github.io/interface-instagram/): Exercício que buscou reproduzir a interface de login do instagram, para sua elaboração utilizei HTML e CSS.
  
  Os repositórios dos projetos elencados podem ser encontrados logo abaixo. 
  Estou aberta para feedbacks sobre os projetos!
