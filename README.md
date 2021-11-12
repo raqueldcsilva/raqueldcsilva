@@ -28,7 +28,7 @@ tenho 23 anos, estou sempre em busca de adquirir novos conhecimentos, pois acred
  
  ##
   
- #### Projetos:
+ #### Projetos visuais:
  [Conexão Marítima](https://conexao-maritma.netlify.app/#/inicio): Projeto integrador realizado em equipe para conclusão do bootcamp da Generation Brasil.
  
  [HorrorFlix](https://raqueldcsilva.github.io/horrorFlix/): Projeto que busca reproduzir a interface da Netflix, mas com algumas modificações para representar o Halloween e a minha paixão em filmes de terror/suspense. O exercício foi feito através de HTML, CSS e Javascript.
