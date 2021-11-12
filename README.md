@@ -29,13 +29,13 @@ tenho 23 anos, estou sempre em busca de adquirir novos conhecimentos, pois acred
  ##
   
  #### Projetos visuais:
- [Conexão Marítima](https://conexao-maritma.netlify.app/#/inicio): Projeto integrador realizado em equipe para conclusão do bootcamp da Generation Brasil.
+ [Conexão Marítima](https://conexao-maritma.netlify.app/#/inicio): Projeto integrador realizado em equipe para conclusão do bootcamp da Generation Brasil. Utilizamos Spring Boot para construção do back-end e o front-end foi feito através do Angular, quanto ao armazenamento das informações, recorremos ao PostgreSQL.
  
  [HorrorFlix](https://raqueldcsilva.github.io/horrorFlix/): Projeto que busca reproduzir a interface da Netflix, mas com algumas modificações para representar o Halloween e a minha paixão em filmes de terror/suspense. O exercício foi feito através de HTML, CSS e Javascript.
  
  [Interface de Login do Instagram](https://raqueldcsilva.github.io/interface-instagram/): Exercício que buscou reproduzir a interface de login do instagram, para sua elaboração utilizei HTML e CSS.
  
- Os repositórios dos projetos elencados podem ser encontrados logo abaixo. 
+ O código completo dos projetos elencados podem ser encontrados logo abaixo ou na aba de repositórios. 
  Estou aberta para feedbacks sobre os projetos!
  
  
