@@ -35,6 +35,8 @@ tenho 23 anos, estou sempre em busca de adquirir novos conhecimentos, pois acred
  
  [Interface de Login do Instagram](https://raqueldcsilva.github.io/interface-instagram/): Exercício que buscou reproduzir a interface de login do instagram, para sua elaboração utilizei HTML e CSS.
  
+ [Snake Game](https://raqueldcsilva.github.io/snake-game/): O famoso joguinho da cobrinha, aqui ele foi feito utilizando apenas HTML, CSS e JS.
+ 
  O código completo dos projetos elencados podem ser encontrados logo abaixo ou na aba de repositórios. 
  Estou aberta para feedbacks sobre os projetos!
  
