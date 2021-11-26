@@ -2,7 +2,6 @@
 
 <div>
 tenho 23 anos, estou sempre em busca de adquirir novos conhecimentos, pois acredito que através da educação e da inovação tecnológica podemos mudar a sociedade em que vivemos. Aqui estão disponíveis alguns projetos que elaborei individual ou coletivamente.
-  <img src="https://i.imgur.com/jQ6Sg1N.png" height="180em" align="right">
 </div>
 
  <div>
@@ -25,6 +24,7 @@ tenho 23 anos, estou sempre em busca de adquirir novos conhecimentos, pois acred
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://i.imgur.com/jQ6Sg1N.png" height="250em" align="right">
   
 </div>
  
