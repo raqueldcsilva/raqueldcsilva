@@ -1,6 +1,8 @@
 ### Olá, eu sou a Raquel Silva!
 
+
 tenho 23 anos, estou sempre em busca de adquirir novos conhecimentos, pois acredito que através da educação e da inovação tecnológica podemos mudar a sociedade em que vivemos. Aqui estão disponíveis alguns projetos que elaborei individual ou coletivamente.
+
 
  <div>
  <a href = "mailto:raquelshdy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -12,6 +14,7 @@ tenho 23 anos, estou sempre em busca de adquirir novos conhecimentos, pois acred
   <a href="https://github.com/raqueldcsilva">
      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=raqueldcsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raqueldcsilva&layout=compact&langs_count=7&theme=dracula"/>
+    <img src="https://i.imgur.com/jQ6Sg1N.png?width=676&height=676">
 </div>
 
 ##
