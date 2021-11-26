@@ -2,8 +2,8 @@
 
 <div>
 tenho 23 anos, estou sempre em busca de adquirir novos conhecimentos, pois acredito que através da educação e da inovação tecnológica podemos mudar a sociedade em que vivemos. Aqui estão disponíveis alguns projetos que elaborei individual ou coletivamente.
+  <img src="https://i.imgur.com/jQ6Sg1N.png" height="180em" align="right">
 </div>
-<div><img src="https://i.imgur.com/jQ6Sg1N.png" width=250 height=250></div>
 
  <div>
  <a href = "mailto:raquelshdy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -31,6 +31,9 @@ tenho 23 anos, estou sempre em busca de adquirir novos conhecimentos, pois acred
  ##
   
  #### Projetos visuais:
+ 
+
+ 
  [Conexão Marítima](https://conexao-maritma.netlify.app/#/inicio): Projeto integrador realizado em equipe para conclusão do bootcamp da Generation Brasil. Utilizamos Spring Boot para construção do back-end e o front-end foi feito através do Angular, quanto ao armazenamento das informações, recorremos ao PostgreSQL.
  
  [HorrorFlix](https://raqueldcsilva.github.io/horrorFlix/): Projeto que busca reproduzir a interface da Netflix, mas com algumas modificações para representar o Halloween e a minha paixão em filmes de terror/suspense. O exercício foi feito através de HTML, CSS e Javascript.
@@ -39,7 +42,8 @@ tenho 23 anos, estou sempre em busca de adquirir novos conhecimentos, pois acred
  
  [Snake Game](https://raqueldcsilva.github.io/snake-game/): O famoso joguinho da cobrinha, aqui ele foi feito utilizando apenas HTML, CSS e JS.
  
- O código completo dos projetos elencados podem ser encontrados logo abaixo ou na aba de repositórios. 
+ 
+ Os códigos dos projetos elencados podem ser encontrados logo abaixo ou na aba de repositórios. 
  Estou aberta para feedbacks sobre os projetos!
  
  
