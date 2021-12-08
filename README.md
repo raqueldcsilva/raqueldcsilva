@@ -36,9 +36,7 @@ tenho 23 anos, estou sempre em busca de adquirir novos conhecimentos, aqui estã
  
  [Conexão Marítima](https://conexao-maritma.netlify.app/#/inicio): Projeto integrador realizado em equipe para conclusão do bootcamp da Generation Brasil. Utilizamos Spring Boot para construção do back-end e o front-end foi feito através do Angular, quanto ao armazenamento das informações, recorremos ao PostgreSQL.
  
- [HorrorFlix](https://raqueldcsilva.github.io/horrorFlix/): Projeto que busca reproduzir a interface da Netflix, mas com algumas modificações para representar o Halloween e a minha paixão em filmes de terror/suspense. O exercício foi feito através de HTML, CSS e Javascript.
  
- [Interface de Login do Instagram](https://raqueldcsilva.github.io/interface-instagram/): Exercício que buscou reproduzir a interface de login do instagram, para sua elaboração utilizei HTML e CSS.
  
  [Snake Game](https://raqueldcsilva.github.io/snake-game/): O famoso joguinho da cobrinha, aqui ele foi feito utilizando apenas HTML, CSS e JS.
  
