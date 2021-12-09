@@ -38,7 +38,7 @@ tenho 23 anos, estou sempre em busca de adquirir novos conhecimentos, aqui estã
  
  
  
- [U.tra](https://raqueldcsilva.github.io/snake-game/): Projeto realizado no hackathon ProviHackParaTodos, utilizamos Angular e bootstrap para fazer a parte de front-end do Projeto, o site ainda está em construção.
+ [U.tra](https://utra.netlify.app): Projeto realizado no hackathon ProviHackParaTodos, utilizamos Angular e bootstrap para fazer a parte de front-end do Projeto, o site ainda está em construção.
  
  
  Os códigos dos projetos elencados podem ser encontrados logo abaixo ou na aba de repositórios. 
