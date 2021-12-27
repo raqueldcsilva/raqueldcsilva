@@ -1,7 +1,7 @@
 ### Olá, eu sou a Raquel Silva!
 
 <div>
-tenho 23 anos, estou sempre em busca de adquirir novos conhecimentos, aqui estão disponíveis alguns projetos que elaborei individual ou coletivamente.
+tenho 24 anos, estou sempre em busca de adquirir novos conhecimentos, aqui estão disponíveis alguns projetos que elaborei individual ou coletivamente.
 </div>
 
  <div>
