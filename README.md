@@ -1,12 +1,16 @@
 ### Olá, eu sou a Raquel Silva!
 
 <div>
-tenho 24 anos, estou sempre em busca de adquirir novos conhecimentos, aqui estão disponíveis alguns projetos que elaborei individual ou coletivamente.
+Após a conclusão do Direito em 2019, desenvolvi um forte interesse nas discussões a respeito da implementação da Lei Geral de Proteção de Dados (LGPD), o que me levou a aprofundar meus conhecimentos na tecnologia, especialmente, em questões relacionadas ao desenvolvimento de software.
+ 
+Para alcançar meu objetivo de me tornar uma Desenvolvedora de Software, participei ativamente em bootcamps e programas de formação. Em 2021, comecei a trabalhar em projetos pessoais, participar de hackathons e apresentar meus projetos em feiras de tecnologia. No ano seguinte, comecei a estudar Sistemas para Internet e a trabalhar como Desenvolvedora de Software em tempo integral. 
+
+Atualmente, tenho conhecimento em tecnologias como .Net Framework, Entity Framework, Sql Server, Oracle, Angular 11+ e React, além de experiência prática nas metodologias ágeis Scrum e Kanban.
 </div>
 
  <div>
  <a href = "mailto:raquelshdy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/raquel-da-conceição-silva-ab0285189/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/raquel-da-conceição-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 
 ##
@@ -16,7 +20,7 @@ tenho 24 anos, estou sempre em busca de adquirir novos conhecimentos, aqui estã
      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raqueldcsilva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-##
+<!-- ##
  
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -26,7 +30,7 @@ tenho 24 anos, estou sempre em busca de adquirir novos conhecimentos, aqui estã
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://i.imgur.com/jQ6Sg1N.png" height="250em" align="right">
   
-</div>
+</div> -->
  
  ##
   
